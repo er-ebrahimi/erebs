@@ -1,7 +1,7 @@
 # erebs
 ### Hi
 <p> I am erfan ebrahimi and I am studing computer engineering in Since And Industry university </P>
-for telling you how much I love **computer engineering** I should right this code<br>
+for telling you how much I love **computer engineering** I should write this code<br>
 ```c++
     #include <iostream>
     using namespace std;
@@ -14,9 +14,9 @@ for telling you how much I love **computer engineering** I should right this cod
 ```
 <br>
 so now you can I understand what am I telling you<br>
-I like designing to so you can predict it easily I like Ul a lot but except these things I said, I have more interests.<br>
+I like designing too so you can predict it easily I like Ul a lot but except these things I said, I have more interests.<br>
 + my enthusiasms:
-  + watching moves
+  + watching movies
   + playing video games
   + traveling
 for example I like to go to the Venice
