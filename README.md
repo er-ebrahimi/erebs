@@ -15,7 +15,7 @@ for telling you how much I love **computer engineering** I should right this cod
 <br>
 so now you can I understand what am I telling you<br>
 I like designing to so you can predict it easily I like Ul a lot but except these things I said, I have more interests.<br>
-+ my enthusiasm:
++ my enthusiasms:
   + watching moves
   + playing video games
   + traveling
